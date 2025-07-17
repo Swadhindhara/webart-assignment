@@ -1,12 +1,64 @@
-# React + Vite
+# ⚛️ Pr3cio - React Authentication App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a modern React-based authentication app with routing, email verification, and dynamic user detail views. Built with React Router and component-based architecture.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Expanding the ESLint configuration
+## Authors
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- [Swadhin Dhara](https://www.linkedin.com/in/swadhindhara/)
+
+
+## Badges
+
+Add badges from somewhere like: [shields.io](https://shields.io/)
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
+[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
+
+
+![Logo](https://github.com/Swadhindhara/webart-assignment/blob/main/src/assets/images/logo.png?raw=true)
+
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/Swadhindhara/webart-assignment
+```
+
+Go to the project directory
+
+```bash
+  cd my-project
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run dev
+```
+
+
+## Tech Stack
+
+**Client:** React Js, Redux, TailwindCSS, React router
+
+**Server:** https://admin.imboxo.com/api-docs
+
+
+## Support
+
+For support, email swadhindhara@gmail.com or join me in Linkedin(https://www.linkedin.com/in/swadhindhara/).
+
+
+
